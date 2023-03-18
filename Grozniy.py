@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as BS
 token = '6057873926:AAEfD_3Wr0o8TORURrrmahIwosSCykvr5yE'
 bot = tb.TeleBot(token)
 
-
+#персонажи
 characters = {'Кли' : 'klee',
               'Странник' : 'strannik',
               'Барбара' : 'barbara',
